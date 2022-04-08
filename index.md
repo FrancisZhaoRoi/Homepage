@@ -1,5 +1,5 @@
 # Welcome to Franci Zhao
-![Francis](https://github.com/FrancisZhaoRoi/Homepage/blob/main/photos/f293f88892176a945e84a34670dd386.jpg "Francis")
+![Francis](https://github.com/FrancisZhaoRoi/Homepage/blob/main/photos/f293f88892176a945e84a34670dd386.jpg#pic_right=72x96 "Francis")
 This is Francis Zhao with french name François.
 这里是Francis，一个热爱摸鱼的人。
 ## Activities
