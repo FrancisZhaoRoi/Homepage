@@ -1,33 +1,17 @@
 ## Welcome to Franci Zhao
 This is Francis Zhao with french name François.
-### Markdown
+这里是Francis，一个热爱摸鱼的人。
+### Activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These days， I'm spending time learning the Stastics physics, the Statistical learning and many other courses
+Ces jours-ci, je passe du temps à apprendre la physique stastique, l'apprentissage statistique et beaucoup d'autres cours.
 
-```markdown
-Syntax highlighted code block
+It's possible that I will put somes notes or somes codes for sharing the thinking, welcome to contact me for exchanging the ideas.
+Il est possible que je mette des notes somes ou des somes codes pour partager la pensée, bienvenue à me contacter pour échanger des idées.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### E-mail: roi.francis.zhao@gmail.com
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrancisZhaoRoi/Homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
